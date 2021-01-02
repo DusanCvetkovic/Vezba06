@@ -1,0 +1,25 @@
+caption
+{
+	font-style: italic;
+}
+
+th
+{
+	background-color: #DDDDDD;
+}
+
+table
+{
+	border-collapse: collapse;
+}
+
+th,td
+{
+	padding: 4px;
+	text-align: center;
+}
+
+tfoot
+{
+	color:red;
+}
